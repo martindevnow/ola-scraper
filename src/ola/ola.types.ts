@@ -8,7 +8,8 @@ export interface BillStatus {
   date: Date;
   stage: string; // First Reading | Second Reading
   activity: string; // Carries | Debate | Deferred Vote | Lost on division;
-  meta: unknown;
+  link: string;
+  meta?: unknown;
 }
 
 export interface LostBillStatus extends BillStatus {
@@ -19,11 +20,13 @@ export interface LostBillStatus extends BillStatus {
 }
 
 export interface Bill {
-  currentStatus: string;
-  sponsor: MPP;
+  no: string;
   link: string;
-  summary?: string;
-  statuses: Record<string, BillStatus>;
+  title: string;
+  sponsor: string; // MPP;
+  // currentStatus: string;
+  // summary?: string;
+  // statuses: Record<string, BillStatus>;
 }
 
 export interface Parliament {
