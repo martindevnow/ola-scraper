@@ -10,14 +10,7 @@ export interface BillStatus {
   stage: string; // First Reading | Second Reading
   activity: string; // Carries | Debate | Deferred Vote | Lost on division;
   link: string;
-  meta?: unknown;
-}
-
-export interface LostBillStatus extends BillStatus {
-  meta: {
-    ayes: MPP[];
-    nays: MPP[];
-  };
+  readings: ReadingResults[];
 }
 
 export interface Bill {
@@ -36,4 +29,15 @@ export interface Parliament {
   startDate: Date; // "2018-07-11"
   endDate: Date | null;
   bills: Record<string, Bill>;
+}
+
+export interface ReadingResults {
+  stage: string; // First Reading, etc
+  ayes: string[]; // array of names
+  nays: string[]; // array of names
+  resolutions: string[]; // array of "resolutions about the reading"
+}
+
+export interface ReadingResultsBuilder extends ReadingResults {
+  voteType: "ayes" | "nays" | null; //
 }
