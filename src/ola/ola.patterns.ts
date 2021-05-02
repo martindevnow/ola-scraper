@@ -10,17 +10,20 @@ export const ORDERS_TITLE = /^ORDERS OF THE DAY/gi;
 export const QUESTION_TITLE = /^QUESTION PERIOD/gi;
 export const DEFERRED_VOTES_TITLE = /^DEFERRED VOTES/gi;
 
+// Voting
 export const POSITIVE_VOTE_SECTION = /^AYES \/ POUR - [0-9]{1,3}/gi;
 export const POSITIVE_VOTE_CONT = /^AYES \/ POUR \- Continued/gi;
 
 export const NEGATIVE_VOTE_SECTION = /^NAYS \/ CONTRE - [0-9]{1,3}/gi;
 export const NEGATIVE_VOTE_CONT = /^NAYS \/ CONTRE \- Continued/gi;
 
-export const BILL_PASSED = /^The Bill passed/gi;
-export const REFERRED_TO_STANDING_RESOLUTION = /^Referred to the Standing Committee on General Government/gi;
+// ** With Capture Groups
+export const READING_BILL = /([a-z]+) Reading of Bill ([0-9]{1,4}),/gi;
 
-// With Capture Groups
-export const SECOND_READING_BILL = /^Second Reading of Bill ([0-9]{1,4}),/gi;
-
+// Resolution
 export const CARRIED_ON_DIVISION = /^Carried on the following division/gi;
 export const LOST_ON_DIVISION = /^Lost on the following division/gi;
+export const VOTE_DEFERRED = /^Vote deferred/gi;
+export const DEBATE_ADJOURNED = /^the debate adjourned/gi;
+export const BILL_PASSED = /^The Bill passed/gi;
+export const REFERRED_TO_STANDING_RESOLUTION = /^Referred to the Standing Committee on General Government/gi;

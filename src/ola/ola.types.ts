@@ -5,6 +5,7 @@ export interface MPP {
 }
 
 export interface BillStatus {
+  billNo: string;
   date: Date;
   stage: string; // First Reading | Second Reading
   activity: string; // Carries | Debate | Deferred Vote | Lost on division;
