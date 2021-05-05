@@ -1,3 +1,4 @@
+import { getBillNoFromUid } from "../ola/ola.helpers";
 import {
   READING_BILL,
   RESOLUTION_PATTERNS,
@@ -36,10 +37,12 @@ export const scrapeAllBills = async () => {
     .map((row) => toCells(row))
     .filter((row) => row.length === 3)
     .map(([no, title, sponsor]) => ({
-      no: no.innerHTML.trim().toLowerCase(),
+      uid: `42-1-${no.innerHTML.trim().toLowerCase()}`,
+      billNo: no.innerHTML.trim().toLowerCase(),
       link: ROOT_URL + title.querySelector("a").getAttribute("href"),
       title: title.querySelector("a").innerHTML.trim(),
       sponsor: sponsor.querySelector(".field").innerHTML.trim(),
+      sessionId: "42-1",
     }));
 
   return { billArr };
@@ -57,7 +60,7 @@ export const scrapeBill = async (bill: Bill): Promise<BillStatus[]> => {
     .map(([dateEle, stageEle, activityEle]) => {
       const date = new Date(dateEle.innerHTML);
       return {
-        billNo: bill.no,
+        billId: bill.uid,
         date,
         link: `https://www.ola.org/en/legislative-business/house-documents/parliament-42/session-1/${yyyymmdd(
           date
@@ -88,7 +91,9 @@ export const scrapeBillReadings = async (
   const voteIndexes = rowsArr
     .map(([firstCell], index) => {
       const reading = READING_BILL.exec(firstCell.innerHTML);
-      return reading && reading[2] === status.billNo ? index : null;
+      return reading && reading[2] === getBillNoFromUid(status.billId)
+        ? index
+        : null;
     })
     .filter((index) => index !== null);
 
@@ -180,5 +185,5 @@ const getStatusesAndVotes = (rows: HTMLElement[][]) => {
 // scrapeBill({ link: SAMPLE_BILL_RESOURCE } as Bill);
 scrapeBillReadings({
   link: SAMPLE_BILL_VOTE_PROCEEDINGS_RESOURCES,
-  billNo: "269",
+  billId: "42-1-269",
 } as BillStatus);

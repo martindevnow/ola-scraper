@@ -4,7 +4,7 @@
   "main": "src/index.ts",
   "license": "MIT",
   "scripts": {
-    "scrape:mpps": "ts-node src/scrapers/mpp.scraper.ts",
+    "scrape:mpps": "ts-node src/scripts/scrape-mpps.ts",
     "scrape:bills": "ts-node src/scrapers/bill.scraper.ts"
   },
   "dependencies": {

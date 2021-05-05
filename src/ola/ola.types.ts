@@ -1,34 +1,60 @@
-export interface MPP {
-  name: string;
-  riding: string;
-  party: string;
+export interface Parliament {
+  uid: string; // "42"
+  parliamentNo: string; // "42"
+  startDate: Date; // "2018-07-11"
+  endDate: Date | null;
 }
 
-export interface BillStatus {
-  billNo: string;
-  date: Date;
-  stage: string; // First Reading | Second Reading
-  activity: string; // Carries | Debate | Deferred Vote | Lost on division;
-  link: string;
-  readings: ReadingResults[];
+export interface ParliamentSession {
+  uid: string; // "42-1" // Combination key of `parliament` and `session`
+  startDate: Date; // "2018-07-11"
+  endDate: Date | null;
+  sessionNo: string; // "1"
+
+  // bills: Record<string, Bill>;
+
+  // (one) parliament has (many) sessions
+  parliament: string; // "42"
+}
+
+export interface MPP {
+  uid: string; // random-generated
+  riding: string; // TODO: make this an array of objects (start, end, locationUid)
+  party: string; // TODO: make this an array of objects (start, end, partyUid)
+
+  // - (many) MPPs belongs to (many) parliaments
+  parliamentNos: string[];
+
+  // name: string;
+  title?: string;
+  firstName: string;
+  lastName: string;
+  // slug: string;
 }
 
 export interface Bill {
-  no: string;
+  uid: string; // "42-1-247"
+  billNo: string; // "247"
   link: string;
   title: string;
   sponsor: string; // MPP;
   // currentStatus: string;
   // summary?: string;
   // statuses: Record<string, BillStatus>;
+
+  // (one) session has (many) bills
+  sessionId: string;
 }
 
-export interface Parliament {
-  parliament: number; // 42
-  session: number; // 1
-  startDate: Date; // "2018-07-11"
-  endDate: Date | null;
-  bills: Record<string, Bill>;
+export interface BillStatus {
+  date: Date;
+  stage: string; // First Reading | Second Reading
+  activity: string; // Carries | Debate | Deferred Vote | Lost on division;
+  link: string;
+  readings: ReadingResults[];
+
+  // (one) bill has (many) statuses
+  billId: string;
 }
 
 export interface ReadingResults {
