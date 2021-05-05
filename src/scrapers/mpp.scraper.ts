@@ -28,14 +28,17 @@ export const mppScraper = async (parliamentNo?: string) => {
     .map(([nameEle, ridingEle, partyEle]) => {
       const name = nameEle.querySelector("a").innerHTML.trim();
       const [last, firstAndTitle] = name.split(",").map((str) => str.trim());
-      const first = firstAndTitle.split(".").map((str) => str.trim());
+      const first = firstAndTitle
+        .split(".")
+        .map((str) => str.trim())
+        .filter(Boolean);
       return {
         uid: uuid(),
         link: ROOT_URL + nameEle.querySelector("a").getAttribute("href"),
         riding: ridingEle.innerHTML.trim(),
         party: partyEle?.innerHTML?.trim() || "",
         parliamentNos: [parliamentNo],
-        title: first.length === 2 ? first[0] : "",
+        title: first.length === 2 && first[1] !== "" ? first[0] : "",
         firstName: first.length === 2 ? first[1] : first[0],
         lastName: last,
       };
