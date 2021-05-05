@@ -19,17 +19,17 @@ export interface ParliamentSession {
 
 export interface MPP {
   uid: string; // random-generated
-  riding: string; // TODO: make this an array of objects (start, end, locationUid)
-  party: string; // TODO: make this an array of objects (start, end, partyUid)
-
-  // - (many) MPPs belongs to (many) parliaments
-  parliamentNos: string[];
-
-  // name: string;
   title?: string;
   firstName: string;
   lastName: string;
+  link: string;
+
   // slug: string;
+  riding?: string; // TODO: make this an array of objects (start, end, locationUid)
+  party?: string; // TODO: make this an array of objects (start, end, partyUid)
+
+  // - (many) MPPs belongs to (many) parliaments
+  parliamentNos?: string[];
 }
 
 export interface Bill {

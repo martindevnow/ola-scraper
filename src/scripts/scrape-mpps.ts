@@ -1,12 +1,11 @@
 import * as fs from "fs";
 import * as path from "path";
 
-import { mppScraper } from "../scrapers/mpp.scraper";
+import { mppsScraper } from "../scrapers/mpps.scraper";
 
 const scrapeMpps = async () => {
-  // leave no args to get current list
-  // const parliamentNo = "42";
-  const { mppArr } = await mppScraper();
+  const parliamentNo = "42";
+  const { mppArr } = await mppsScraper(parliamentNo);
 
   const filename = path.join(
     path.resolve(__dirname),

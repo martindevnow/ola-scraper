@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "scrape:mpps": "ts-node src/scripts/scrape-mpps.ts",
-    "scrape:bills": "ts-node src/scrapers/bill.scraper.ts"
+    "scrape:bills": "ts-node src/scripts/scrape-bills.ts"
   },
   "dependencies": {
     "got": "^11.8.2",

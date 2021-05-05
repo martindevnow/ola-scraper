@@ -1,0 +1,2690 @@
+[
+  {
+    "uid": "42-1-pr1",
+    "billNo": "pr1",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr1",
+    "title": "Crystal-Kirkland Mines, Limited Act, 2018",
+    "sponsor": "Vanthof, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-1",
+    "billNo": "1",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-1",
+    "title": "An Act to perpetuate an ancient parliamentary right",
+    "sponsor": "Ford, Hon. Doug",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-2",
+    "billNo": "2",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-2",
+    "title": "Urgent Priorities Act, 2018",
+    "sponsor": "Rickford, Hon. Greg",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr2",
+    "billNo": "pr2",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr2",
+    "title": "2063434 Ontario Limited Act, 2018",
+    "sponsor": "Pettapiece, Randy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr3",
+    "billNo": "pr3",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr3",
+    "title": "Brownwood Holdings Limited Act, 2018",
+    "sponsor": "Baber, Roman",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-3",
+    "billNo": "3",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-3",
+    "title": "Compassionate Care Act, 2020",
+    "sponsor": "Oosterhoff, Sam",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr4",
+    "billNo": "pr4",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr4",
+    "title": "850148 Ontario Inc. Act, 2018",
+    "sponsor": "Wynne, Kathleen O.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-4",
+    "billNo": "4",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-4",
+    "title": "Cap and Trade Cancellation Act, 2018",
+    "sponsor": "Phillips, Hon. Rod",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr5",
+    "billNo": "pr5",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr5",
+    "title": "Dundas Valley Masonic Hall Inc. Act, 2019",
+    "sponsor": "Shaw, Sandy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-5",
+    "billNo": "5",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-5",
+    "title": "Better Local Government Act, 2018",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-6",
+    "billNo": "6",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-6",
+    "title": "Poet Laureate of Ontario Act (In Memory of Gord Downie), 2019",
+    "sponsor": "Hatfield, Percy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr6",
+    "billNo": "pr6",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr6",
+    "title": "Abitare Design Inc. Act, 2019",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-7",
+    "billNo": "7",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-7",
+    "title": "Fairness in Petroleum Products Pricing Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr7",
+    "billNo": "pr7",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr7",
+    "title": "665395 Ontario Limited Act, 2019",
+    "sponsor": "Hogarth, Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr8",
+    "billNo": "pr8",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr8",
+    "title": "Good Fortune Corporation Act, 2019",
+    "sponsor": "Babikian, Aris",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-8",
+    "billNo": "8",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-8",
+    "title": "Transparent and Accountable Health Care Act, 2018",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr9",
+    "billNo": "pr9",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr9",
+    "title": "All Trade Quantities Inc. Act, 2019",
+    "sponsor": "Wai, Daisy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-9",
+    "billNo": "9",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-9",
+    "title": "PTSD Awareness Day Act, 2018",
+    "sponsor": "Bouma, Will",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-10",
+    "billNo": "10",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-10",
+    "title": "Brunt and Kendall Act (Ensuring Safe Firefighter and Trainee Rescue Training), 2018",
+    "sponsor": "French, Jennifer K.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr10",
+    "billNo": "pr10",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr10",
+    "title": "The United Church of Canada Act, 2019",
+    "sponsor": "Wynne, Kathleen O.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr11",
+    "billNo": "pr11",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr11",
+    "title": "598968 Ontario Limited Act, 2019",
+    "sponsor": "Sattler, Peggy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-11",
+    "billNo": "11",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-11",
+    "title": "Garrett's Legacy Act (Requirements for Movable Soccer Goals), 2018",
+    "sponsor": "Cho, Stan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-12",
+    "billNo": "12",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-12",
+    "title": "Fairness for the Auto Sector Act (Employment Standards), 2018",
+    "sponsor": "French, Jennifer K.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr12",
+    "billNo": "pr12",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr12",
+    "title": "2345260 Ontario Ltd. Act, 2019",
+    "sponsor": "Crawford, Stephen",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr13",
+    "billNo": "pr13",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr13",
+    "title": "A&amp;One Fashion Jewellery Wholesale Ltd. Act, 2019",
+    "sponsor": "Babikian, Aris",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-13",
+    "billNo": "13",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-13",
+    "title": "Time to Care Act (Long-Term Care Homes Amendment, Minimum Standard of Daily Care), 2020",
+    "sponsor": "Armstrong, Teresa J.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr14",
+    "billNo": "pr14",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr14",
+    "title": "Special Ability Riding Institute Act (Tax Relief), 2019",
+    "sponsor": "Pettapiece, Randy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-14",
+    "billNo": "14",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-14",
+    "title": "Zebra Mussel Analysis Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr15",
+    "billNo": "pr15",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr15",
+    "title": "Haggart Belting Canada Ltd. Act, 2019",
+    "sponsor": "Crawford, Stephen",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-15",
+    "billNo": "15",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-15",
+    "title": "Zebra Mussel Count Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr16",
+    "billNo": "pr16",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr16",
+    "title": "Canadian Chinese School of Theology Act, 2019",
+    "sponsor": "Wai, Daisy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-16",
+    "billNo": "16",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-16",
+    "title": "Zebra Mussel Evaluation Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-17",
+    "billNo": "17",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-17",
+    "title": "Counting Zebra Mussels Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-18",
+    "billNo": "18",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-18",
+    "title": "Status of Zebra Mussels Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr18",
+    "billNo": "pr18",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr18",
+    "title": "1191650 Ontario Limited Act, 2019",
+    "sponsor": "Martow, Gila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr19",
+    "billNo": "pr19",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr19",
+    "title": "1549408 Ontario Inc. Act, 2019",
+    "sponsor": "Pang, Billy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-19",
+    "billNo": "19",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-19",
+    "title": "Zebra Mussel Survey Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr20",
+    "billNo": "pr20",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr20",
+    "title": "Hot Docs Act (Tax Relief), 2020",
+    "sponsor": "Cho, Stan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-20",
+    "billNo": "20",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-20",
+    "title": "Waterways Analysis Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr21",
+    "billNo": "pr21",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr21",
+    "title": "Ross Memorial Hospital Act, 2020",
+    "sponsor": "Hogarth, Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-21",
+    "billNo": "21",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-21",
+    "title": "Zebra Mussel Study Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-22",
+    "billNo": "22",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-22",
+    "title": "Zebra Mussel Scan Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr22",
+    "billNo": "pr22",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr22",
+    "title": "Olympic Floor Cleaning Inc. Act, 2019",
+    "sponsor": "Thanigasalam, Vijay",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr23",
+    "billNo": "pr23",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr23",
+    "title": "Cherry Hill Orchards Pelham Limited Act, 2020",
+    "sponsor": "Oosterhoff, Sam",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-23",
+    "billNo": "23",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-23",
+    "title": "Zebra Mussel Assessment Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-24",
+    "billNo": "24",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-24",
+    "title": "Ministry of Community and Social Services Amendment Act (Social Assistance Research Commission), 2018",
+    "sponsor": "Miller, Paul",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr24",
+    "billNo": "pr24",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr24",
+    "title": "2404907 Ontario Ltd. Act, 2020",
+    "sponsor": "Thanigasalam, Vijay",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr25",
+    "billNo": "pr25",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr25",
+    "title": "Tapir Corporation Act, 2020",
+    "sponsor": "Bailey, Robert",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-25",
+    "billNo": "25",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-25",
+    "title": "Zebra Mussel Report Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr26",
+    "billNo": "pr26",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr26",
+    "title": "2585303 Ontario Inc. Act, 2020",
+    "sponsor": "Thanigasalam, Vijay",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-26",
+    "billNo": "26",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-26",
+    "title": "Zebra Mussel Examination Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-27",
+    "billNo": "27",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-27",
+    "title": "Waterways Examination Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr27",
+    "billNo": "pr27",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr27",
+    "title": "Group Seven Construction Ltd. Act",
+    "sponsor": "Gates, Wayne",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr28",
+    "billNo": "pr28",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr28",
+    "title": "Huron University College Act, 2020",
+    "sponsor": "Sattler, Peggy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-28",
+    "billNo": "28",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-28",
+    "title": "Alternate Land Use and Services Program for Agricultural Land Act, 2018",
+    "sponsor": "Barrett, Toby",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr29",
+    "billNo": "pr29",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr29",
+    "title": "Quadrant Consulting Services Inc. Act, 2020",
+    "sponsor": "Bailey, Robert",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-29",
+    "billNo": "29",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-29",
+    "title": "Protecting Waterways from Zebra Mussels Act, 2018",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-30",
+    "billNo": "30",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-30",
+    "title": "Fighting Back Against Handguns Act (Handgun Ammunition Sales), 2018",
+    "sponsor": "Hunter, Mitzie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr30",
+    "billNo": "pr30",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr30",
+    "title": "2372830 Ontario Inc. Act, 2020",
+    "sponsor": "Thanigasalam, Vijay",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr31",
+    "billNo": "pr31",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr31",
+    "title": "1040062 Ontario Incorporated Act, 2020",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-31",
+    "billNo": "31",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-31",
+    "title": "Efficient Local Government Act, 2018",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr32",
+    "billNo": "pr32",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr32",
+    "title": "Skypride Travel &amp; Tours Ltd. Act, 2020",
+    "sponsor": "French, Jennifer K.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-32",
+    "billNo": "32",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-32",
+    "title": "Access to Natural Gas Act, 2018",
+    "sponsor": "McNaughton, Hon. Monte",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-33",
+    "billNo": "33",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-33",
+    "title": "Rea and Walter Act (Truss and Lightweight Construction Identification), 2018",
+    "sponsor": "Pettapiece, Randy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr33",
+    "billNo": "pr33",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr33",
+    "title": "704176 Ontario Limited Act, 2020",
+    "sponsor": "Glover, Chris",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-34",
+    "billNo": "34",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-34",
+    "title": "Green Energy Repeal Act, 2018",
+    "sponsor": "Rickford, Hon. Greg",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr34",
+    "billNo": "pr34",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr34",
+    "title": "Apollo Shawarma and Grill Inc. Act, 2021",
+    "sponsor": "Harris, Mike",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-35",
+    "billNo": "35",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-35",
+    "title": "Human Rights Code Amendment Act, 2018",
+    "sponsor": "Des Rosiers, Nathalie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr35",
+    "billNo": "pr35",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr35",
+    "title": "2257248 Ontario Inc. Act, 2020",
+    "sponsor": "Triantafilopoulos, Effie J.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr36",
+    "billNo": "pr36",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr36",
+    "title": "Castleform Holdings Inc. Act, 2020",
+    "sponsor": "Cho, Stan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-36",
+    "billNo": "36",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-36",
+    "title": "Cannabis Statute Law Amendment Act, 2018",
+    "sponsor": "Mulroney, Hon. Caroline",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr37",
+    "billNo": "pr37",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr37",
+    "title": "Parya Trillium Foundation Act (Tax Relief), 2021",
+    "sponsor": "Kanapathi, Logan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-37",
+    "billNo": "37",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-37",
+    "title": "Liability for Climate-Related Harms Act, 2018",
+    "sponsor": "Tabuns, Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-38",
+    "billNo": "38",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-38",
+    "title": "Tax Fairness for Real Estate Professionals Act, 2018",
+    "sponsor": "Bailey, Robert",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr38",
+    "billNo": "pr38",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr38",
+    "title": "62 Grimsby Phantom Squadron Sponsoring Committee Act (Tax Relief), 2020",
+    "sponsor": "Oosterhoff, Sam",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr39",
+    "billNo": "pr39",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr39",
+    "title": "Robe Investments &amp; Consulting Services Limited Act, 2021",
+    "sponsor": "Fife, Catherine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-39",
+    "billNo": "39",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-39",
+    "title": "Accessible Parking and Towing Industry Review Committee Act, 2018",
+    "sponsor": "Martow, Gila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-40",
+    "billNo": "40",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-40",
+    "title": "Human Rights Code Amendment Act (Genetic Characteristics), 2018",
+    "sponsor": "Mitas, Christina Maria",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr40",
+    "billNo": "pr40",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr40",
+    "title": "Castleform Developments Inc. Act, 2021",
+    "sponsor": "Cho, Stan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-41",
+    "billNo": "41",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-41",
+    "title": "Highway Traffic Amendment Act (Helmet Exemption for Sikh Motorcyclists), 2018",
+    "sponsor": "Sarkaria, Prabmeet Singh",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr41",
+    "billNo": "pr41",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr41",
+    "title": "2560462 Ontario Ltd. Act, 2021",
+    "sponsor": "Crawford, Stephen",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-42",
+    "billNo": "42",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-42",
+    "title": "Ending Discrimination in Automobile Insurance Act, 2019",
+    "sponsor": "Gill, Parm",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr42",
+    "billNo": "pr42",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr42",
+    "title": "Hawke-Lea Holdings Ltd. Act, 2021",
+    "sponsor": "Hogarth, Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-43",
+    "billNo": "43",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-43",
+    "title": "Freeing Highways 412 and 418 Act (Toll Highway Amendments), 2020",
+    "sponsor": "French, Jennifer K.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr43",
+    "billNo": "pr43",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr43",
+    "title": "2271767 Ontario Inc. Act, 2021",
+    "sponsor": "Wai, Daisy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-44",
+    "billNo": "44",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-44",
+    "title": "Ending Automobile Insurance Discrimination in the Greater Toronto Area Act, 2018",
+    "sponsor": "Singh, Gurratan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr44",
+    "billNo": "pr44",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr44",
+    "title": "2353043 Ontario Inc. Act, 2021",
+    "sponsor": "Kanapathi, Logan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr45",
+    "billNo": "pr45",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr45",
+    "title": "1825821 Ontario Ltd. Act, 2021",
+    "sponsor": "Cho, Stan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-45",
+    "billNo": "45",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-45",
+    "title": "Child Care and Early Years Amendment Act (Not-for-Profit Corporations), 2018",
+    "sponsor": "Begum, Doly",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr46",
+    "billNo": "pr46",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr46",
+    "title": "Shuang Ying Company Ltd. Act, 2021",
+    "sponsor": "Cho, Stan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-46",
+    "billNo": "46",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-46",
+    "title": "Terrorist Activities Sanctions Act, 2018",
+    "sponsor": "Smith, Dave",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr47",
+    "billNo": "pr47",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr47",
+    "title": "Wemax Real Estate Inc. Act, 2021",
+    "sponsor": "Singh, Gurratan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-47",
+    "billNo": "47",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-47",
+    "title": "Making Ontario Open for Business Act, 2018",
+    "sponsor": "Smith, Hon. Todd",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-48",
+    "billNo": "48",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-48",
+    "title": "Safe and Supportive Classrooms Act, 2019",
+    "sponsor": "Thompson, Hon. Lisa M.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr48",
+    "billNo": "pr48",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr48",
+    "title": "Darvey Holdings Limited Act, 2021",
+    "sponsor": "Fraser, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr49",
+    "billNo": "pr49",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr49",
+    "title": "Woodex Inc. Act, 2021",
+    "sponsor": "Wai, Daisy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-49",
+    "billNo": "49",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-49",
+    "title": "Charter Rights Transparency Act, 2018",
+    "sponsor": "Des Rosiers, Nathalie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-pr50",
+    "billNo": "pr50",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-pr50",
+    "title": "Whittrick N D T Services Ltd. Act, 2021",
+    "sponsor": "Fife, Catherine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-50",
+    "billNo": "50",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-50",
+    "title": "Cutting Red Tape for Motor Vehicle Dealers Act, 2018",
+    "sponsor": "Harris, Mike",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-51",
+    "billNo": "51",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-51",
+    "title": "Long-Term Care Homes Amendment Act (Preference for Veterans), 2018",
+    "sponsor": "Stevens, Jennifer (Jennie)",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-52",
+    "billNo": "52",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-52",
+    "title": "Juries Statute Law Amendment Act (Juror Eligibility), 2018",
+    "sponsor": "Des Rosiers, Nathalie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-53",
+    "billNo": "53",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-53",
+    "title": "Special Hockey Day Act, 2018",
+    "sponsor": "Smith, Dave",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-54",
+    "billNo": "54",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-54",
+    "title": "Organic Products Act, 2018",
+    "sponsor": "McDonell, Jim",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-55",
+    "billNo": "55",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-55",
+    "title": "Safeguarding our Information Act, 2018",
+    "sponsor": "Crawford, Stephen",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-56",
+    "billNo": "56",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-56",
+    "title": "Keeping Students Safe on School Buses Act (Highway Traffic Amendment), 2018",
+    "sponsor": "Wynne, Kathleen O.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-57",
+    "billNo": "57",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-57",
+    "title": "Restoring Trust, Transparency and Accountability Act, 2018",
+    "sponsor": "Fedeli, Hon. Victor",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-58",
+    "billNo": "58",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-58",
+    "title": "Family Caregiver Day Act, 2018",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-59",
+    "billNo": "59",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-59",
+    "title": "Caregiver Recognition Act, 2018",
+    "sponsor": "Roberts, Jeremy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-60",
+    "billNo": "60",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-60",
+    "title": "Ministry of Community and Social Services Amendment Act (Social Assistance Research Commission), 2019",
+    "sponsor": "Miller, Paul",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-61",
+    "billNo": "61",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-61",
+    "title": "Eating Disorders Awareness Week Act, 2020",
+    "sponsor": "Andrew, Jill",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-62",
+    "billNo": "62",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-62",
+    "title": "Protecting Vulnerable Road Users Act, 2018",
+    "sponsor": "Bell, Jessica",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-63",
+    "billNo": "63",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-63",
+    "title": "Right to Timely Mental Health and Addiction Care for Children and Youth Act, 2019",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-64",
+    "billNo": "64",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-64",
+    "title": "Noah and Gregory's Law (Transition to Adult Developmental Services and Supports), 2019",
+    "sponsor": "Gretzky, Lisa",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-65",
+    "billNo": "65",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-65",
+    "title": "Protecting Our Pets Act, 2019",
+    "sponsor": "Hogarth, Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-66",
+    "billNo": "66",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-66",
+    "title": "Restoring Ontario's Competitiveness Act, 2019",
+    "sponsor": "Smith, Hon. Todd",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-67",
+    "billNo": "67",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-67",
+    "title": "Labour Relations Amendment Act (Protecting Ontario's Power Supply), 2018",
+    "sponsor": "Scott, Hon. Laurie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-68",
+    "billNo": "68",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-68",
+    "title": "Comprehensive Ontario Police Services Act, 2019",
+    "sponsor": "Jones, Hon. Sylvia",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-69",
+    "billNo": "69",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-69",
+    "title": "Golden Girls Act, 2019",
+    "sponsor": "Park, Lindsey",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-70",
+    "billNo": "70",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-70",
+    "title": "Registered Professional Planners Act, 2019",
+    "sponsor": "Coe, Lorne",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-71",
+    "billNo": "71",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-71",
+    "title": "Paris Galt Moraine Conservation Act, 2019",
+    "sponsor": "Schreiner, Mike",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-72",
+    "billNo": "72",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-72",
+    "title": "Consumer Protection Amendment Act (Right to Repair Electronic Products), 2019",
+    "sponsor": "Coteau, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-73",
+    "billNo": "73",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-73",
+    "title": "Home Care and Community Services Amendment Act (Dan's Law), 2019",
+    "sponsor": "Gretzky, Lisa",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-74",
+    "billNo": "74",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-74",
+    "title": "The People's Health Care Act, 2019",
+    "sponsor": "Elliott, Hon. Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-75",
+    "billNo": "75",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-75",
+    "title": "9-1-1 Everywhere in Ontario Act, 2019",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-76",
+    "billNo": "76",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-76",
+    "title": "United Nations Declaration on the Rights of Indigenous Peoples Act, 2019",
+    "sponsor": "Mamakwa, Sol",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-77",
+    "billNo": "77",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-77",
+    "title": "Hellenic Heritage Month Act, 2019",
+    "sponsor": "Triantafilopoulos, Effie J.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-78",
+    "billNo": "78",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-78",
+    "title": "Supporting Ontario's Community, Rural and Agricultural Newspapers Act, 2019",
+    "sponsor": "Ghamari, Goldie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-79",
+    "billNo": "79",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-79",
+    "title": "Algoma University Amendment Act, 2019",
+    "sponsor": "Romano, Ross",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-80",
+    "billNo": "80",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-80",
+    "title": "Archives and Recordkeeping Amendment Act, 2019",
+    "sponsor": "Tabuns, Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-81",
+    "billNo": "81",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-81",
+    "title": "Supply Act, 2019",
+    "sponsor": "Bethlenfalvy, Hon. Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-82",
+    "billNo": "82",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-82",
+    "title": "Single-Use Plastics Ban Act, 2019",
+    "sponsor": "Arthur, Ian",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-83",
+    "billNo": "83",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-83",
+    "title": "Day of Remembrance and Action on Islamophobia Act, 2019",
+    "sponsor": "Berns-McGown, Rima",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-84",
+    "billNo": "84",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-84",
+    "title": "Prohibiting Hate-Promoting Demonstrations at Queen's Park Act, 2019",
+    "sponsor": "Baber, Roman",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-85",
+    "billNo": "85",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-85",
+    "title": "Election Fundraising Transparency Act, 2019",
+    "sponsor": "Des Rosiers, Nathalie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-86",
+    "billNo": "86",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-86",
+    "title": "Respecting Property Taxpayers Act, 2019",
+    "sponsor": "Calandra, Paul",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-87",
+    "billNo": "87",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-87",
+    "title": "Fixing the Hydro Mess Act, 2019",
+    "sponsor": "Rickford, Hon. Greg",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-88",
+    "billNo": "88",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-88",
+    "title": "Planning Amendment Act, 2019",
+    "sponsor": "Downey, Doug",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-89",
+    "billNo": "89",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-89",
+    "title": "Teach the Reach Act, 2019",
+    "sponsor": "Stiles, Marit",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-90",
+    "billNo": "90",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-90",
+    "title": "Lower Automobile Insurance Rates Act, 2019",
+    "sponsor": "Rakocevic, Tom",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-91",
+    "billNo": "91",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-91",
+    "title": "Peter Kormos Memorial Act (Trillium Gift of Life Network Amendment), 2019",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-92",
+    "billNo": "92",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-92",
+    "title": "Labour Relations Amendment Act (Replacement Workers), 2019",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-93",
+    "billNo": "93",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-93",
+    "title": "St. James Town Act (Residential Tenancies Amendments), 2019",
+    "sponsor": "Morrison, Suze",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-94",
+    "billNo": "94",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-94",
+    "title": "Genocide Awareness, Education, Condemnation and Prevention Month Act, 2019",
+    "sponsor": "Babikian, Aris",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-95",
+    "billNo": "95",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-95",
+    "title": "Independent Ontario Provincial Police Commissioner Appointment Act, 2019",
+    "sponsor": "Des Rosiers, Nathalie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-96",
+    "billNo": "96",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-96",
+    "title": "Democratic Participation Act, 2019",
+    "sponsor": "Lalonde, Marie-France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-97",
+    "billNo": "97",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-97",
+    "title": "Genocide Awareness, Commemoration, Prevention and Education Month Act, 2019",
+    "sponsor": "Babikian, Aris",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-98",
+    "billNo": "98",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-98",
+    "title": "Sunshine Protection Act, 2019",
+    "sponsor": "Lalonde, Marie-France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-99",
+    "billNo": "99",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-99",
+    "title": "Election Finances Amendment Act (Changes for Fund-Raising Events), 2019",
+    "sponsor": "Schreiner, Mike",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-100",
+    "billNo": "100",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-100",
+    "title": "Protecting What Matters Most Act (Budget Measures), 2019",
+    "sponsor": "Fedeli, Hon. Victor",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-101",
+    "billNo": "101",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-101",
+    "title": "End the Public Funding of Partisan Government Advertising Act, 2019",
+    "sponsor": "Natyshak, Taras",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-102",
+    "billNo": "102",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-102",
+    "title": "Closing Oversight Loopholes for Home Care Clinics Act, 2019",
+    "sponsor": "Sattler, Peggy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-103",
+    "billNo": "103",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-103",
+    "title": "Election Finances Amendment Act (Leadership Fundraising Loophole), 2019",
+    "sponsor": "Fraser, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-104",
+    "billNo": "104",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-104",
+    "title": "Tamil Genocide Education Week Act, 2019",
+    "sponsor": "Thanigasalam, Vijay",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-105",
+    "billNo": "105",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-105",
+    "title": "Mandatory Police Training Act, 2019",
+    "sponsor": "Kusendova, Natalia",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-106",
+    "billNo": "106",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-106",
+    "title": "Egyptian Heritage Month Act, 2019",
+    "sponsor": "Sabawy, Sheref",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-107",
+    "billNo": "107",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-107",
+    "title": "Getting Ontario Moving Act (Transportation Statute Law Amendment), 2019",
+    "sponsor": "Yurek, Hon. Jeff",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-108",
+    "billNo": "108",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-108",
+    "title": "More Homes, More Choice Act, 2019",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-109",
+    "billNo": "109",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-109",
+    "title": "Jennifer's Law (Retail Sales Tax Amendment Act Respecting HST Rebates for Medical Supplies), 2019",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-110",
+    "billNo": "110",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-110",
+    "title": "Oil, Gas and Salt Resources Amendment Act (Anti-Fracking), 2019",
+    "sponsor": "Tabuns, Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-111",
+    "billNo": "111",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-111",
+    "title": "Speaking Out About Workplace Violence and Workplace Harassment Act, 2019",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-112",
+    "billNo": "112",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-112",
+    "title": "Lupus Awareness Day Act, 2019",
+    "sponsor": "Pang, Billy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-113",
+    "billNo": "113",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-113",
+    "title": "Ministry of Correctional Services Amendment Act (Limits on Solitary Confinement), 2019",
+    "sponsor": "Des Rosiers, Nathalie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-114",
+    "billNo": "114",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-114",
+    "title": "Nancy Rose Act (Paediatric Hospice Palliative Care Strategy), 2019",
+    "sponsor": "Shaw, Sandy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-115",
+    "billNo": "115",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-115",
+    "title": "Bringing Choice and Fairness to the People Act (Beverage Alcohol Retail Sales), 2019",
+    "sponsor": "Fedeli, Hon. Victor",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-116",
+    "billNo": "116",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-116",
+    "title": "Foundations for Promoting and Protecting Mental Health and Addictions Services Act, 2019",
+    "sponsor": "Elliott, Hon. Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-117",
+    "billNo": "117",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-117",
+    "title": "Ontario Society for the Prevention of Cruelty to Animals Amendment Act (Interim Period), 2019",
+    "sponsor": "Jones, Hon. Sylvia",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-118",
+    "billNo": "118",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-118",
+    "title": "Occupiers' Liability Amendment Act, 2020",
+    "sponsor": "Miller, Norman",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-119",
+    "billNo": "119",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-119",
+    "title": "Respecting Injured Workers Act (Workplace Safety and Insurance Amendment), 2019",
+    "sponsor": "Gates, Wayne",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-120",
+    "billNo": "120",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-120",
+    "title": "Menstrual Hygiene Day Act, 2019",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-121",
+    "billNo": "121",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-121",
+    "title": "Municipal Representation and Restructuring Protection Act, 2019",
+    "sponsor": "Horwath, Andrea",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-122",
+    "billNo": "122",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-122",
+    "title": "Fairness for Road Users Act (Contraventions Causing Death or Serious Bodily Harm), 2019",
+    "sponsor": "French, Jennifer K.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-123",
+    "billNo": "123",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-123",
+    "title": "Reserved Parking for Electric Vehicle Charging Act, 2019",
+    "sponsor": "Coe, Lorne",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-124",
+    "billNo": "124",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-124",
+    "title": "Protecting a Sustainable Public Sector for Future Generations Act, 2019",
+    "sponsor": "Bethlenfalvy, Hon. Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-125",
+    "billNo": "125",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-125",
+    "title": "Making Northern Ontario Highways Safer Act, 2019",
+    "sponsor": "Bourgouin, Guy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-126",
+    "billNo": "126",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-126",
+    "title": "La Francophonie Act, 2019",
+    "sponsor": "Des Rosiers, Nathalie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-127",
+    "billNo": "127",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-127",
+    "title": "Ontario Food Terminal Protection Act, 2019",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-128",
+    "billNo": "128",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-128",
+    "title": "Ontario Water Resources Amendment Act, 2019",
+    "sponsor": "Dunlop, Jill",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-129",
+    "billNo": "129",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-129",
+    "title": "Safe and Healthy Communities Act (Addressing Gun Violence), 2019",
+    "sponsor": "Hunter, Mitzie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-130",
+    "billNo": "130",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-130",
+    "title": "Combatting Litter for the Environment and Nature Act, 2019",
+    "sponsor": "Khanjin, Andrea",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-131",
+    "billNo": "131",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-131",
+    "title": "Tibetan Heritage Month Act, 2020",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-132",
+    "billNo": "132",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-132",
+    "title": "Better for People, Smarter for Business Act, 2019",
+    "sponsor": "Sarkaria, Hon. Prabmeet Singh",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-133",
+    "billNo": "133",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-133",
+    "title": "Buy in Canada for Mass Transit Vehicles Act, 2019",
+    "sponsor": "Gravelle, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-134",
+    "billNo": "134",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-134",
+    "title": "Caribbean Heritage Month Act, 2019",
+    "sponsor": "Coteau, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-135",
+    "billNo": "135",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-135",
+    "title": "La Francophonie Act, 2019",
+    "sponsor": "Fraser, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-136",
+    "billNo": "136",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-136",
+    "title": "Provincial Animal Welfare Services Act, 2019",
+    "sponsor": "Jones, Hon. Sylvia",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-137",
+    "billNo": "137",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-137",
+    "title": "Franco-Ontarian Community Act, 2019",
+    "sponsor": "Bourgouin, Guy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-138",
+    "billNo": "138",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-138",
+    "title": "Plan to Build Ontario Together Act, 2019",
+    "sponsor": "Phillips, Hon. Rod",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-139",
+    "billNo": "139",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-139",
+    "title": "Caribbean Heritage Month Act, 2019",
+    "sponsor": "Singh, Sara",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-140",
+    "billNo": "140",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-140",
+    "title": "Defibrillator Registry Act, 2019",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-141",
+    "billNo": "141",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-141",
+    "title": "Defibrillator Registration and Public Access Act, 2020",
+    "sponsor": "Martin, Robin",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-142",
+    "billNo": "142",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-142",
+    "title": "Highway Traffic Amendment Act (Air Brake Endorsements), 2019",
+    "sponsor": "Sandhu, Amarjot",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-143",
+    "billNo": "143",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-143",
+    "title": "Health and Safety at Work Day Act, 2019",
+    "sponsor": "McKenna, Jane",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-144",
+    "billNo": "144",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-144",
+    "title": "Northern Health Travel Grant Advisory Committee Act, 2019",
+    "sponsor": "Monteith-Farrell, Judith",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-145",
+    "billNo": "145",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-145",
+    "title": "Trust in Real Estate Services Act, 2020",
+    "sponsor": "Thompson, Hon. Lisa M.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-146",
+    "billNo": "146",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-146",
+    "title": "Stop Cyberbullying in Ontario Day Act, 2019",
+    "sponsor": "Rasheed, Kaleed",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-147",
+    "billNo": "147",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-147",
+    "title": "Public Safety Related to Dogs Statute Law Amendment Act, 2019",
+    "sponsor": "Nicholls, Rick",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-148",
+    "billNo": "148",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-148",
+    "title": "Doored But Not Ignored Act, 2019",
+    "sponsor": "Bell, Jessica",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-149",
+    "billNo": "149",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-149",
+    "title": "Dyslexia Awareness Month Act, 2019",
+    "sponsor": "Harden, Joel",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-150",
+    "billNo": "150",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-150",
+    "title": "Ensuring Transparency and Integrity in Political Party Elections Act, 2019",
+    "sponsor": "Karahalios, Belinda C.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-151",
+    "billNo": "151",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-151",
+    "title": "Smoke-Free Ontario Amendment Act (Vaping is not for Kids), 2019",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-152",
+    "billNo": "152",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-152",
+    "title": "Occupational Safety and Health Day Act, 2021",
+    "sponsor": "McKenna, Jane",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-153",
+    "billNo": "153",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-153",
+    "title": "Long-Term Care Homes Amendment (Till Death Do Us Part) Act, 2019",
+    "sponsor": "Fife, Catherine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-154",
+    "billNo": "154",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-154",
+    "title": "Stop Cyberbullying in Ontario Day Act, 2020",
+    "sponsor": "Rasheed, Kaleed",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-155",
+    "billNo": "155",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-155",
+    "title": "Rent Control Act, 2019",
+    "sponsor": "Morrison, Suze",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-156",
+    "billNo": "156",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-156",
+    "title": "Security from Trespass and Protecting Food Safety Act, 2020",
+    "sponsor": "Hardeman, Hon. Ernie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-157",
+    "billNo": "157",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-157",
+    "title": "COPD Awareness Day Act, 2021",
+    "sponsor": "Kanapathi, Logan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-158",
+    "billNo": "158",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-158",
+    "title": "Defibrillator Training and Access Act, 2019",
+    "sponsor": "Fraser, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-159",
+    "billNo": "159",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-159",
+    "title": "Rebuilding Consumer Confidence Act, 2020",
+    "sponsor": "Thompson, Hon. Lisa M.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-160",
+    "billNo": "160",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-160",
+    "title": "Education Amendment Act (Use of Seclusion and Physical Restraints), 2019",
+    "sponsor": "Coteau, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-161",
+    "billNo": "161",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-161",
+    "title": "Smarter and Stronger Justice Act, 2020",
+    "sponsor": "Downey, Hon. Doug",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-162",
+    "billNo": "162",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-162",
+    "title": "Public Accountability and Lobbyist Transparency Act, 2020",
+    "sponsor": "Hillier, Randy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-163",
+    "billNo": "163",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-163",
+    "title": "Food Day Ontario (Food Day Canada in Ontario) Act, 2020",
+    "sponsor": "Ke, Vincent",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-164",
+    "billNo": "164",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-164",
+    "title": "Protecting Vulnerable Persons in Supportive Living Accommodation Act, 2020",
+    "sponsor": "Burch, Jeff",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-165",
+    "billNo": "165",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-165",
+    "title": "Ontario Climate Crisis Strategy for the Public Sector Act, 2019",
+    "sponsor": "Tabuns, Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-166",
+    "billNo": "166",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-166",
+    "title": "Great Lakes Protection Amendment Act, 2020",
+    "sponsor": "Barrett, Toby",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-167",
+    "billNo": "167",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-167",
+    "title": "Legislative Assembly Amendment Act, 2020",
+    "sponsor": "Calandra, Hon. Paul",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-168",
+    "billNo": "168",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-168",
+    "title": "Combating Antisemitism Act, 2020",
+    "sponsor": "Bouma, Will",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-169",
+    "billNo": "169",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-169",
+    "title": "Home Warranties to Protect Families Act, 2019",
+    "sponsor": "Rakocevic, Tom",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-170",
+    "billNo": "170",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-170",
+    "title": "Protecting Passenger Safety Act, 2019",
+    "sponsor": "Fraser, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-171",
+    "billNo": "171",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-171",
+    "title": "Building Transit Faster Act, 2020",
+    "sponsor": "Mulroney, Hon. Caroline",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-172",
+    "billNo": "172",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-172",
+    "title": "Education Statute Law Amendment Act (Fetal Alcohol Spectrum Disorder), 2020",
+    "sponsor": "Wynne, Kathleen O.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-173",
+    "billNo": "173",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-173",
+    "title": "Ontario Day Act, 2021",
+    "sponsor": "Parsa, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-174",
+    "billNo": "174",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-174",
+    "title": "Ditch the Switch Act, 2020",
+    "sponsor": "Miller, Paul",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-175",
+    "billNo": "175",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-175",
+    "title": "Connecting People to Home and Community Care Act, 2020",
+    "sponsor": "Elliott, Hon. Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-176",
+    "billNo": "176",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-176",
+    "title": "Maternal Mental Health Act, 2021",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-177",
+    "billNo": "177",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-177",
+    "title": "Sikh Genocide Awareness Week Act, 2020",
+    "sponsor": "Singh, Gurratan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-178",
+    "billNo": "178",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-178",
+    "title": "Black Mental Health Day Act, 2020",
+    "sponsor": "Karpoche, Bhutila",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-179",
+    "billNo": "179",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-179",
+    "title": "Assessment Amendment Act (Areas in Transition), 2020",
+    "sponsor": "Martin, Robin",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-180",
+    "billNo": "180",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-180",
+    "title": "Somali Heritage Week Act, 2020",
+    "sponsor": "Hassan, Faisal",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-181",
+    "billNo": "181",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-181",
+    "title": "Supply Act, 2020",
+    "sponsor": "Bethlenfalvy, Hon. Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-182",
+    "billNo": "182",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-182",
+    "title": "Franco-Ontarian Emblem Amendment Act, 2020",
+    "sponsor": "Kusendova, Natalia",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-183",
+    "billNo": "183",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-183",
+    "title": "Strengthening Human Rights in Ontario Act, 2020",
+    "sponsor": "Horwath, Andrea",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-184",
+    "billNo": "184",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-184",
+    "title": "Protecting Tenants and Strengthening Community Housing Act, 2020",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-185",
+    "billNo": "185",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-185",
+    "title": "Vision Zero Strategy Act, 2020",
+    "sponsor": "Bell, Jessica",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-186",
+    "billNo": "186",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-186",
+    "title": "Employment Standards Amendment Act (Infectious Disease Emergencies), 2020",
+    "sponsor": "McNaughton, Hon. Monte",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-187",
+    "billNo": "187",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-187",
+    "title": "Municipal Emergency Act, 2020",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-188",
+    "billNo": "188",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-188",
+    "title": "Economic and Fiscal Update Act, 2020",
+    "sponsor": "Phillips, Hon. Rod",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-189",
+    "billNo": "189",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-189",
+    "title": "Coronavirus (COVID-19) Support and Protection Act, 2020",
+    "sponsor": "Lecce, Hon. Stephen",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-190",
+    "billNo": "190",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-190",
+    "title": "COVID-19 Response and Reforms to Modernize Ontario Act, 2020",
+    "sponsor": "Calandra, Hon. Paul",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-191",
+    "billNo": "191",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-191",
+    "title": "Workplace Safety and Insurance Amendment Act (Presumption Respecting COVID-19), 2020",
+    "sponsor": "Gates, Wayne",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-192",
+    "billNo": "192",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-192",
+    "title": "Protecting Small Business Act, 2020",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-193",
+    "billNo": "193",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-193",
+    "title": "Climate Crisis Health Action Plan Act, 2020",
+    "sponsor": "Tabuns, Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-194",
+    "billNo": "194",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-194",
+    "title": "WSIB Coverage for Workers in Residential Care Facilities and Group Homes Act, 2020",
+    "sponsor": "Fraser, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-195",
+    "billNo": "195",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-195",
+    "title": "Reopening Ontario (A Flexible Response to COVID-19) Act, 2020",
+    "sponsor": "Jones, Hon. Sylvia",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-196",
+    "billNo": "196",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-196",
+    "title": "Seniors' Advocate Act, 2020",
+    "sponsor": "Lindo, Laura Mae",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-197",
+    "billNo": "197",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-197",
+    "title": "COVID-19 Economic Recovery Act, 2020",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-198",
+    "billNo": "198",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-198",
+    "title": "Cootes Paradise Water Accountability Act, 2020",
+    "sponsor": "Shaw, Sandy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-199",
+    "billNo": "199",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-199",
+    "title": "Taxation Amendment Act (Travel Ontario Tax Credit), 2020",
+    "sponsor": "Gates, Wayne",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-200",
+    "billNo": "200",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-200",
+    "title": "Employment Standards Amendment Act (Sick Notes), 2020",
+    "sponsor": "Schreiner, Mike",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-201",
+    "billNo": "201",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-201",
+    "title": "Magna Carta Day Act (In Memory of Julia Munro, MPP), 2020",
+    "sponsor": "McKenna, Jane",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-202",
+    "billNo": "202",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-202",
+    "title": "Soldiers' Aid Commission Act, 2020",
+    "sponsor": "Smith, Hon. Todd",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-203",
+    "billNo": "203",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-203",
+    "title": "More Than a Visitor Act (Caregiving in Congregate Care Settings), 2020",
+    "sponsor": "Gretzky, Lisa",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-204",
+    "billNo": "204",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-204",
+    "title": "Helping Tenants and Small Businesses Act, 2020",
+    "sponsor": "Clark, Hon. Steve",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-205",
+    "billNo": "205",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-205",
+    "title": "Protecting Renters from Illegal Evictions Act, 2020",
+    "sponsor": "Bell, Jessica",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-206",
+    "billNo": "206",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-206",
+    "title": "Change of Name Amendment Act, 2020",
+    "sponsor": "Mitas, Christina Maria",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-207",
+    "billNo": "207",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-207",
+    "title": "Moving Ontario Family Law Forward Act, 2020",
+    "sponsor": "Downey, Hon. Doug",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-208",
+    "billNo": "208",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-208",
+    "title": "Scottish Heritage Day Act, 2020",
+    "sponsor": "McDonell, Jim",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-209",
+    "billNo": "209",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-209",
+    "title": "Supporting Economic Recovery and Renewal in the Niagara Region Act, 2020",
+    "sponsor": "Gates, Wayne",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-210",
+    "billNo": "210",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-210",
+    "title": "Fairness for Residential Superintendents, Janitors and Caretakers Act, 2020",
+    "sponsor": "Bisson, Gilles",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-211",
+    "billNo": "211",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-211",
+    "title": "Dwarfism Awareness and Acceptance Month Act, 2020",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-212",
+    "billNo": "212",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-212",
+    "title": "Connecting Care Amendment Act (Patient Bill of Rights), 2020",
+    "sponsor": "Fraser, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-213",
+    "billNo": "213",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-213",
+    "title": "Better for People, Smarter for Business Act, 2020",
+    "sponsor": "Sarkaria, Hon. Prabmeet Singh",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-214",
+    "billNo": "214",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-214",
+    "title": "Time Amendment Act, 2020",
+    "sponsor": "Roberts, Jeremy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-215",
+    "billNo": "215",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-215",
+    "title": "Main Street Recovery Act, 2020",
+    "sponsor": "Sarkaria, Hon. Prabmeet Singh",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-216",
+    "billNo": "216",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-216",
+    "title": "Food Literacy for Students Act, 2020",
+    "sponsor": "Kramp, Daryl",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-217",
+    "billNo": "217",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-217",
+    "title": "Filipino Heritage Month Act, 2021",
+    "sponsor": "Begum, Doly",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-218",
+    "billNo": "218",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-218",
+    "title": "Supporting Ontario's Recovery and Municipal Elections Act, 2020",
+    "sponsor": "Downey, Hon. Doug",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-219",
+    "billNo": "219",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-219",
+    "title": "Life Settlements and Loans Act, 2020",
+    "sponsor": "Cuzzetto, Rudy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-220",
+    "billNo": "220",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-220",
+    "title": "Murray Whetung Community Service Award Act, 2020",
+    "sponsor": "Smith, Dave",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-221",
+    "billNo": "221",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-221",
+    "title": "Exalting Our Veterans Act, 2020",
+    "sponsor": "Skelly, Donna",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-222",
+    "billNo": "222",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-222",
+    "title": "Ontario Rebuilding and Recovery Act, 2020",
+    "sponsor": "Mulroney, Hon. Caroline",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-223",
+    "billNo": "223",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-223",
+    "title": "Highway Traffic Amendment Act (Electronic Logging Devices), 2020",
+    "sponsor": "Thanigasalam, Vijay",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-224",
+    "billNo": "224",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-224",
+    "title": "No Time to Waste Act (Plan for Climate Action and Jobs), 2020",
+    "sponsor": "Tabuns, Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-225",
+    "billNo": "225",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-225",
+    "title": "Harvey and Gurvir's Law (Provision of Information Respecting Down Syndrome), 2020",
+    "sponsor": "Singh, Sara",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-226",
+    "billNo": "226",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-226",
+    "title": "Broadband is an Essential Service Act, 2020",
+    "sponsor": "Vanthof, John",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-227",
+    "billNo": "227",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-227",
+    "title": "Public Health Accountability Act (In Honour of Dr. Sheela Basrur), 2020",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-228",
+    "billNo": "228",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-228",
+    "title": "Keeping Polystyrene Out of Ontario's Lakes and Rivers Act, 2021",
+    "sponsor": "Miller, Norman",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-229",
+    "billNo": "229",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-229",
+    "title": "Protect, Support and Recover from COVID-19 Act (Budget Measures), 2020",
+    "sponsor": "Phillips, Hon. Rod",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-230",
+    "billNo": "230",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-230",
+    "title": "Front-line and Essential Service Worker Week Act, 2020",
+    "sponsor": "Rasheed, Kaleed",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-231",
+    "billNo": "231",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-231",
+    "title": "Protecting Ontarians by Enhancing Gas Station Safety to Prevent Gas and Dash Act, 2020",
+    "sponsor": "Anand, Deepak",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-232",
+    "billNo": "232",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-232",
+    "title": "Local Choice for Local Elections (Ranked Ballot By-Laws), 2020",
+    "sponsor": "Hunter, Mitzie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-233",
+    "billNo": "233",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-233",
+    "title": "Improving Access to Health Care Act, 2020",
+    "sponsor": "Andrew, Jill",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-234",
+    "billNo": "234",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-234",
+    "title": "Payday Loans Accountability Act, 2020",
+    "sponsor": "Shaw, Sandy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-235",
+    "billNo": "235",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-235",
+    "title": "Cannabis Licence Amendment Act, 2020",
+    "sponsor": "Stiles, Marit",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-236",
+    "billNo": "236",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-236",
+    "title": "Supporting Local Restaurants Act, 2020",
+    "sponsor": "Sarkaria, Hon. Prabmeet Singh",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-237",
+    "billNo": "237",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-237",
+    "title": "Fostering Privacy Fairness Act, 2021",
+    "sponsor": "Bailey, Robert",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-238",
+    "billNo": "238",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-238",
+    "title": "Workplace Safety and Insurance Amendment Act, 2021",
+    "sponsor": "McNaughton, Hon. Monte",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-239",
+    "billNo": "239",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-239",
+    "title": "Stay Home If You Are Sick Act, 2021",
+    "sponsor": "Sattler, Peggy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-240",
+    "billNo": "240",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-240",
+    "title": "Teddy's Law (Anti-Declawing), 2020",
+    "sponsor": "Stiles, Marit",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-241",
+    "billNo": "241",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-241",
+    "title": "COVID-19 Memorial Day Act, 2020",
+    "sponsor": "Armstrong, Teresa J.",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-242",
+    "billNo": "242",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-242",
+    "title": "Caregiver and Homeworker Protection Act, 2020",
+    "sponsor": "Baber, Roman",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-243",
+    "billNo": "243",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-243",
+    "title": "Trespass to Property Amendment Act (Protecting Consumers from Package Piracy), 2021",
+    "sponsor": "Crawford, Stephen",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-244",
+    "billNo": "244",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-244",
+    "title": "No COVID-19 Evictions Act, 2021",
+    "sponsor": "Morrison, Suze",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-245",
+    "billNo": "245",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-245",
+    "title": "Accelerating Access to Justice Act, 2021",
+    "sponsor": "Downey, Hon. Doug",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-246",
+    "billNo": "246",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-246",
+    "title": "Safer School Buses Act, 2021",
+    "sponsor": "Harris, Mike",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-247",
+    "billNo": "247",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-247",
+    "title": "Paid Personal Emergency Leave Now Act, 2021",
+    "sponsor": "Coteau, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-248",
+    "billNo": "248",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-248",
+    "title": "COVID-19 Public Inquiry Act, 2021",
+    "sponsor": "Horwath, Andrea",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-249",
+    "billNo": "249",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-249",
+    "title": "We're All in This Together Act (Cutting MPP Salaries to CERB Equivalent), 2021",
+    "sponsor": "Baber, Roman",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-250",
+    "billNo": "250",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-250",
+    "title": "Recovery Month Act, 2021",
+    "sponsor": "Ke, Vincent",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-251",
+    "billNo": "251",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-251",
+    "title": "Combating Human Trafficking Act, 2021",
+    "sponsor": "Jones, Hon. Sylvia",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-252",
+    "billNo": "252",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-252",
+    "title": "Housing is a Human Right Act, 2021",
+    "sponsor": "Hassan, Faisal",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-253",
+    "billNo": "253",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-253",
+    "title": "Support for Adults in Need of Assistance Act, 2021",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-254",
+    "billNo": "254",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-254",
+    "title": "Protecting Ontario Elections Act, 2021",
+    "sponsor": "Downey, Hon. Doug",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-255",
+    "billNo": "255",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-255",
+    "title": "Sickle Cell Disease Awareness Day and Thalassemia Awareness Day Act, 2021",
+    "sponsor": "Khanjin, Andrea",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-256",
+    "billNo": "256",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-256",
+    "title": "Awenen Niin Act (Who Am I) Respecting Identity Documents, 2021",
+    "sponsor": "Monteith-Farrell, Judith",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-257",
+    "billNo": "257",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-257",
+    "title": "Supporting Broadband and Infrastructure Expansion Act, 2021",
+    "sponsor": "Scott, Hon. Laurie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-258",
+    "billNo": "258",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-258",
+    "title": "Battle of the Hatpins Day Act, 2021",
+    "sponsor": "Bourgouin, Guy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-259",
+    "billNo": "259",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-259",
+    "title": "Viewer Discretion Act (Images of Fetuses), 2021",
+    "sponsor": "Kernaghan, Terence",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-260",
+    "billNo": "260",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-260",
+    "title": "Stopping Harassment and Abuse by Local Leaders Act, 2021",
+    "sponsor": "Blais, Stephen",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-261",
+    "billNo": "261",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-261",
+    "title": "Supply Act, 2021",
+    "sponsor": "Bethlenfalvy, Hon. Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-262",
+    "billNo": "262",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-262",
+    "title": "Convenience Store Week Act, 2021",
+    "sponsor": "Cho, Stan",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-263",
+    "billNo": "263",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-263",
+    "title": "Health Protection and Promotion Amendment Act (Temptation Be Gone), 2021",
+    "sponsor": "Gélinas, France",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-264",
+    "billNo": "264",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-264",
+    "title": "Health Insurance Amendment Act (Linguistic Identity and French Diacritics on Health Cards), 2021",
+    "sponsor": "Bourgouin, Guy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-265",
+    "billNo": "265",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-265",
+    "title": "Executive Council Amendment Act, 2021",
+    "sponsor": "Calandra, Hon. Paul",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-266",
+    "billNo": "266",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-266",
+    "title": "Support Workers Pay Act, 2021",
+    "sponsor": "West, Jamie",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-267",
+    "billNo": "267",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-267",
+    "title": "Workplace Safety and Insurance Amendment Act (Access to Mental Health Support for Essential Workers), 2021",
+    "sponsor": "Taylor, Monique",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-268",
+    "billNo": "268",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-268",
+    "title": "Waterpower Day Act, 2021",
+    "sponsor": "Mantha, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-269",
+    "billNo": "269",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-269",
+    "title": "Protecting the People of Ontario Act (Budget Measures), 2021",
+    "sponsor": "Bethlenfalvy, Hon. Peter",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-270",
+    "billNo": "270",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-270",
+    "title": "Senior Volunteer Appreciation Week Act, 2021",
+    "sponsor": "Pang, Billy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-271",
+    "billNo": "271",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-271",
+    "title": "Persian Heritage Month Act, 2021",
+    "sponsor": "Parsa, Michael",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-272",
+    "billNo": "272",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-272",
+    "title": "Ministry of Health and Long-Term Care Amendment Act (Advanced Glucose Monitoring Devices), 2021",
+    "sponsor": "Natyshak, Taras",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-273",
+    "billNo": "273",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-273",
+    "title": "Endometriosis Awareness Month Act, 2021",
+    "sponsor": "Stiles, Marit",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-274",
+    "billNo": "274",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-274",
+    "title": "Intimate Partner Violence Disclosure Act, 2021",
+    "sponsor": "Stevens, Jennifer (Jennie)",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-275",
+    "billNo": "275",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-275",
+    "title": "Supply Chain Management Amendment Act (Provincial Diverse Vendor Strategy), 2021",
+    "sponsor": "Fife, Catherine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-276",
+    "billNo": "276",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-276",
+    "title": "Supporting Recovery and Competitiveness Act, 2021",
+    "sponsor": "Sarkaria, Hon. Prabmeet Singh",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-277",
+    "billNo": "277",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-277",
+    "title": "Ministry of Health and Long-Term Care Amendment Act (Supporting Individuals in their Homes and Communities with Assistive Devices for Mental Health), 2021",
+    "sponsor": "Kernaghan, Terence",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-278",
+    "billNo": "278",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-278",
+    "title": "French Language Services Amendment Act, 2021",
+    "sponsor": "Bourgouin, Guy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-279",
+    "billNo": "279",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-279",
+    "title": "Environmental Protection Amendment Act (Microplastics Filters for Washing Machines), 2021",
+    "sponsor": "Bell, Jessica",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-280",
+    "billNo": "280",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-280",
+    "title": "Protecting Seniors' Rights in Care Homes Act, 2021",
+    "sponsor": "Bell, Jessica",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-281",
+    "billNo": "281",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-281",
+    "title": "Christopher's Law (Sex Offender Registry) Amendment Act, 2021",
+    "sponsor": "Smith, Dave",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-282",
+    "billNo": "282",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-282",
+    "title": "Moving Ontarians More Safely Act, 2021",
+    "sponsor": "Mulroney, Hon. Caroline",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-283",
+    "billNo": "283",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-283",
+    "title": "Advancing Oversight and Planning in Ontario's Health System Act, 2021",
+    "sponsor": "Elliott, Hon. Christine",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-284",
+    "billNo": "284",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-284",
+    "title": "COVID-19 Putting Workers First Act, 2021",
+    "sponsor": "McNaughton, Hon. Monte",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-285",
+    "billNo": "285",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-285",
+    "title": "Non-Profit Sector Appreciation Week Act, 2021",
+    "sponsor": "Wai, Daisy",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-286",
+    "billNo": "286",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-286",
+    "title": "Inherent Right to Safe Drinking Water Act, 2021",
+    "sponsor": "Mamakwa, Sol",
+    "sessionId": "42-1"
+  },
+  {
+    "uid": "42-1-287",
+    "billNo": "287",
+    "link": "https://www.ola.org/en/legislative-business/bills/parliament-42/session-1/bill-287",
+    "title": "Equity Education for Young Ontarians Act, 2021",
+    "sponsor": "Collard, Lucille",
+    "sessionId": "42-1"
+  }
+]
