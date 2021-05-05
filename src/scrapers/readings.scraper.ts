@@ -14,10 +14,11 @@ import { getHtmlFromUrl } from "../utils/http.utils";
 
 const TABLE_QUERY_SELECTOR = "table"; // Only 1 table on this page, thankfully
 
-export const readingsScraper = async (
-  status: BillStatus
-): Promise<ReadingResults[]> => {
-  const baseUrl = status.link;
+export const readingsScraper = async ({
+  link,
+  billId,
+}: BillStatus): Promise<ReadingResults[]> => {
+  const baseUrl = link;
   const html = await getHtmlFromUrl(`${baseUrl}`);
 
   // There are 3 tables on this page
@@ -32,9 +33,7 @@ export const readingsScraper = async (
   const voteIndexes = rowsArr
     .map(([firstCell], index) => {
       const reading = READING_BILL.exec(firstCell.innerHTML);
-      return reading && reading[2] === getBillNoFromUid(status.billId)
-        ? index
-        : null;
+      return reading && reading[2] === getBillNoFromUid(billId) ? index : null;
     })
     .filter((index) => index !== null);
 

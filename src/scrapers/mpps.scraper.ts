@@ -17,10 +17,11 @@ export const mppsScraper = async (parliamentNo?: string) => {
     : CURRENT_MPP_RESOURCE;
   const html = await getHtmlFromUrl(url);
   const table = html.querySelector(TABLE_QUERY_SELECTOR);
-  const rowsArr = Array.from(table.querySelectorAll("tr"));
+  const rowsArr = Array.from(table.querySelectorAll("tr"))
+    .map((row) => toCells(row))
+    .filter((row) => row.some((cell) => !!cell));
 
   const mppArr: MPP[] = rowsArr
-    .map((row) => toCells(row))
     .filter((row) => row.length >= 2) // 'current' url has 3, numbered url has 2
     .map(([nameEle]) => {
       const name = nameEle.querySelector("a").innerHTML.trim();

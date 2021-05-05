@@ -17,11 +17,12 @@ export const billStatusesScraper = async ({
 }: Bill): Promise<BillStatus[]> => {
   const html = await getHtmlFromUrl(`${link}/status`);
   const table = html.querySelector(TABLE_QUERY_SELECTOR);
-  const rowsArr = Array.from(table.querySelectorAll("tr"));
   const { parliamentNo, sessionNo } = psb(uid);
+  const rowsArr = Array.from(table.querySelectorAll("tr"))
+    .map((row) => toCells(row))
+    .filter((row) => row.some((cell) => !!cell));
 
   const statuses: BillStatus[] = rowsArr
-    .map((row) => toCells(row))
     .filter((row) => row.length === 4)
     .map(([dateEle, stageEle, activityEle]) => {
       const date = new Date(dateEle.innerHTML);

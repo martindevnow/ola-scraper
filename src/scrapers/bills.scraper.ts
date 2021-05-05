@@ -19,10 +19,11 @@ export const billsScraper = async (parliamentNo: string, sessionNo: string) => {
   const url = billsUrlByParliamentSession(parliamentNo, sessionNo);
   const html = await getHtmlFromUrl(url);
   const table = html.querySelector(TABLE_QUERY_SELECTOR);
-  const rowsArr = Array.from(table.querySelectorAll("tr"));
+  const rowsArr = Array.from(table.querySelectorAll("tr"))
+    .map((row) => toCells(row))
+    .filter((row) => row.some((cell) => !!cell));
 
   const billArr: Bill[] = rowsArr
-    .map((row) => toCells(row))
     .filter((row) => row.length === 3)
     .map(([no, title, sponsor]) => ({
       uid: `${parliamentNo}-${sessionNo}-${no.innerHTML.trim().toLowerCase()}`,
